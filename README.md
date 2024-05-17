@@ -6,6 +6,7 @@ This project is a data analysis of hotel reservation cancellations. The primary 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
+- [Objectives](#installation)
 - [Files](#files)
 - [Results](#results)
 - [Contributing](#contributing)
